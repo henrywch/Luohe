@@ -1,5 +1,8 @@
 div{
+	width: 75%;
+	height: 10%;
 	background-color: cadetblue;
+	border-radius: 10px;
 	box-shadow: 10px 10px 5px black;
 	border-image: url;
 }
