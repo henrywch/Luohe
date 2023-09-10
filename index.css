@@ -11,4 +11,8 @@ div.title{
 	box-shadow: 10px 10px 5px black;
 	border-image: url;
 }
+p{
+	font-size: 30px;
+	text-align: center;
+}
 
